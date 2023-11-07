@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yayush05
+- 👋 Hi, I’m Aayush
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning Java Programming Language
 - 💞️ I’m looking to collaborate on ...
